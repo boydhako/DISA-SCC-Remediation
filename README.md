@@ -36,6 +36,7 @@ This repo is primarily addressed to DISA SCC SCAP scan results for Red Hat Enter
 - Allow the scripts to do perform standardized checks
 - STIGs and software implementation constantly change. Therefore, checks and remediation should be assessed based on OS Minor versions.
 - IA Auditors do not operate based off of CCI. The operate based off of Vulnerability IDs which is not a standard in SCAP standards.
+- Between different profiles a setting in a configuration may be variable. The script **will** select the most secure variable.
 
 ## Strategy
 ( Flowchart is Work In Progress )
