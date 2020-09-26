@@ -1,4 +1,4 @@
-# DISA-SCC-Remediation
+# DISA SCC Remediation
 This repo is primarily addressed to DISA SCC SCAP scan results for Red Hat Enterprise Linux (RHEL).
 
 ## Predicted Questions
@@ -9,7 +9,7 @@ This repo is primarily addressed to DISA SCC SCAP scan results for Red Hat Enter
 	- The "Open" DISA STIG Security Profile is not complete in that it doesn't have the various specific profiles used for MAC levels and Sensitivity. It does however implement over 50% of the STIG implementations found by the SCC using the DISA Approved STIGs.
 
 ## STIG Priorities
-1. Manual STIG Checks
+1. Open Manual STIG Checks
 	1. CAT I
 	2. CAT II
 	3. CAT III
